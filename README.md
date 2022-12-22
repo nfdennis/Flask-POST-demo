@@ -4,7 +4,7 @@
 
 ### post:
 - outputs to server console a readable schedule
-- returns {schedule: str({readableSchedule})
+- returns str(readableSchedule)
 
 ## Workspace setup
 copy requirements.txt
